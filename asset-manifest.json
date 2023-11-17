@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/healthy-living-app/static/css/main.5fe5fb83.css",
-    "main.js": "/healthy-living-app/static/js/main.e8999bea.js",
+    "main.css": "/healthy-living-app/static/css/main.d9819566.css",
+    "main.js": "/healthy-living-app/static/js/main.2077a227.js",
     "static/js/787.33a8fedf.chunk.js": "/healthy-living-app/static/js/787.33a8fedf.chunk.js",
     "index.html": "/healthy-living-app/index.html",
-    "main.5fe5fb83.css.map": "/healthy-living-app/static/css/main.5fe5fb83.css.map",
-    "main.e8999bea.js.map": "/healthy-living-app/static/js/main.e8999bea.js.map",
+    "main.d9819566.css.map": "/healthy-living-app/static/css/main.d9819566.css.map",
+    "main.2077a227.js.map": "/healthy-living-app/static/js/main.2077a227.js.map",
     "787.33a8fedf.chunk.js.map": "/healthy-living-app/static/js/787.33a8fedf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fe5fb83.css",
-    "static/js/main.e8999bea.js"
+    "static/css/main.d9819566.css",
+    "static/js/main.2077a227.js"
   ]
 }
